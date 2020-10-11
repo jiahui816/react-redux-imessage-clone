@@ -1,3 +1,22 @@
+This project is an Apple iMessage clone 
+
+Technology Used
+1. React 
+2. Redux
+3. Material UI
+4. Firebase Authentication (Google Auth)
+5. Firebase Firestore for RealTime Database
+6. Firebase Hosting
+7. React Flip Move 
+
+Give it a try. 
+1. https://imessage-clone-730d9.web.app/
+2. Click the Sign In Button
+3. Sign in using your google account
+4. On the top right, add a new chat room
+5. Start Chatting
+6. To Logout, press the profile picture/avatar icon on the top left. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
